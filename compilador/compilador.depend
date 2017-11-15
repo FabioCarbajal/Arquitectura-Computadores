@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1510774828 source:c:\users\alumno-e\desktop\compilador\src\instrucciones.cpp
+	"Instrucciones.h"
+
+1510774828 c:\users\alumno-e\desktop\compilador\include\instrucciones.h
+
+1510774800 source:c:\users\alumno-e\desktop\compilador\src\registros.cpp
+	"Registros.h"
+
+1510774800 c:\users\alumno-e\desktop\compilador\include\registros.h
+
+1510776295 source:c:\users\alumno-e\desktop\compilador\main.cpp
+	<iostream>
+	<string>
+
